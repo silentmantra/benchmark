@@ -32,6 +32,8 @@ Create a snippet and paste into the HTML section the following:
     inverted; // this will be returned by eval
 
     // @benchmark looping array
+
+    // use a block if you are redeclaring variables/functions
     {
         const arr = str.split('');
 
