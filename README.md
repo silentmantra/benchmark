@@ -29,7 +29,9 @@ Create a snippet and paste into the HTML section the following:
     for (let i = str.length - 1; i >= 0; i--) {
         inverted += str[i];
     }
-    inverted; // this will be returned by eval
+    inverted;
+    // the last statement in a solution is returned by eval()
+    // and the first 1000 JSON characters displayed
 
     // @benchmark looping array
 
