@@ -16,11 +16,15 @@ Create a snippet and paste into the HTML section the following:
     const str = 'Hello world'.repeat(1000000);
 
     // @benchmark string concat
+
     // 'string concat' - name/title of the solution
     // here could be any code for this solution that won't by cycled
 
     // @run
-    // after @run the code will be cycled data-count times. you don't need @run if there's nothing to execute before the cycled code
+
+    // after @run the code will be cycled data-count times
+    // you don't need @run if there's nothing to execute before the cycled code
+
     let inverted = '';
     for (let i = str.length - 1; i >= 0; i--) {
         inverted += str[i];
