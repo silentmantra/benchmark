@@ -1,5 +1,9 @@
 # benchmark
 
+A script that allows you easily create JS benchmarks.
+
+![image](https://github.com/silentmantra/benchmark/assets/1520737/b9d1c4cc-433f-4abb-82d9-7cc060175e31)
+
 The documentation: https://stackoverflow.com/questions/78190163/how-to-use-silentmantra-benchmark
 
 Examples: https://stackoverflow.com/search?tab=newest&q=user%3a14098260%20benchmark&searchOn=3
