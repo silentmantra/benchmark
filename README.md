@@ -1,4 +1,4 @@
-# benchmark
+# silentmantra/benchmark
 
 A script that allows you easily create JS benchmarks.
 
